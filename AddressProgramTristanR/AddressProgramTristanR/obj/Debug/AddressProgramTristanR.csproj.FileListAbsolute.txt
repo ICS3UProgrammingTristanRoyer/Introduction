@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\AddressProgramTristanR\AddressProgramTristanR\bin\Debug\AddressProgramTristanR.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\AddressProgramTristanR\AddressProgramTristanR\bin\Debug\AddressProgramTristanR.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\AddressProgramTristanR\AddressProgramTristanR\bin\Debug\AddressProgramTristanR.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\AddressProgramTristanR\AddressProgramTristanR\obj\Debug\AddressProgramTristanR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\AddressProgramTristanR\AddressProgramTristanR\obj\Debug\AddressProgramTristanR.frmAddressProgram.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\AddressProgramTristanR\AddressProgramTristanR\obj\Debug\AddressProgramTristanR.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\AddressProgramTristanR\AddressProgramTristanR\obj\Debug\AddressProgramTristanR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\AddressProgramTristanR\AddressProgramTristanR\obj\Debug\AddressProgramTristanR.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\AddressProgramTristanR\AddressProgramTristanR\obj\Debug\AddressProgramTristanR.pdb

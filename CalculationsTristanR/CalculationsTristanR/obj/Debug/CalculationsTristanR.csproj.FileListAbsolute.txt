@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\CalculationsTristanR\CalculationsTristanR\bin\Debug\CalculationsTristanR.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\CalculationsTristanR\CalculationsTristanR\bin\Debug\CalculationsTristanR.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\CalculationsTristanR\CalculationsTristanR\bin\Debug\CalculationsTristanR.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\CalculationsTristanR\CalculationsTristanR\obj\Debug\CalculationsTristanR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\CalculationsTristanR\CalculationsTristanR\obj\Debug\CalculationsTristanR.AreaCircVolForm.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\CalculationsTristanR\CalculationsTristanR\obj\Debug\CalculationsTristanR.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\CalculationsTristanR\CalculationsTristanR\obj\Debug\CalculationsTristanR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\CalculationsTristanR\CalculationsTristanR\obj\Debug\CalculationsTristanR.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\CalculationsTristanR\CalculationsTristanR\obj\Debug\CalculationsTristanR.pdb

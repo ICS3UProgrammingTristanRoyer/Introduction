@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloInternationalTristanR\HelloInternationalTristanR\bin\Debug\HelloInternationalTristanR.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloInternationalTristanR\HelloInternationalTristanR\bin\Debug\HelloInternationalTristanR.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloInternationalTristanR\HelloInternationalTristanR\bin\Debug\HelloInternationalTristanR.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloInternationalTristanR\HelloInternationalTristanR\obj\Debug\HelloInternationalTristanR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloInternationalTristanR\HelloInternationalTristanR\obj\Debug\HelloInternationalTristanR.HelloInternationalForm.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloInternationalTristanR\HelloInternationalTristanR\obj\Debug\HelloInternationalTristanR.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloInternationalTristanR\HelloInternationalTristanR\obj\Debug\HelloInternationalTristanR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloInternationalTristanR\HelloInternationalTristanR\obj\Debug\HelloInternationalTristanR.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloInternationalTristanR\HelloInternationalTristanR\obj\Debug\HelloInternationalTristanR.pdb

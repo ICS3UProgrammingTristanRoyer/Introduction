@@ -1,0 +1,9 @@
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldTristanR\HelloWorldTristanR\bin\Debug\HelloWorldTristanR.exe.config
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldTristanR\HelloWorldTristanR\bin\Debug\HelloWorldTristanR.exe
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldTristanR\HelloWorldTristanR\bin\Debug\HelloWorldTristanR.pdb
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldTristanR\HelloWorldTristanR\obj\Debug\HelloWorldTristanR.csprojResolveAssemblyReference.cache
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldTristanR\HelloWorldTristanR\obj\Debug\HelloWorldTristanR.frmHelloWorld.resources
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldTristanR\HelloWorldTristanR\obj\Debug\HelloWorldTristanR.Properties.Resources.resources
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldTristanR\HelloWorldTristanR\obj\Debug\HelloWorldTristanR.csproj.GenerateResource.Cache
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldTristanR\HelloWorldTristanR\obj\Debug\HelloWorldTristanR.exe
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldTristanR\HelloWorldTristanR\obj\Debug\HelloWorldTristanR.pdb

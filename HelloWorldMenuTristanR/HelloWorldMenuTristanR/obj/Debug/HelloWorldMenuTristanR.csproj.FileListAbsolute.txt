@@ -1,0 +1,18 @@
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\bin\Debug\HelloWorldMenuTristanR.exe.config
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\bin\Debug\HelloWorldMenuTristanR.exe
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\bin\Debug\HelloWorldMenuTristanR.pdb
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\obj\Debug\HelloWorldMenuTristanR.csprojResolveAssemblyReference.cache
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\obj\Debug\HelloWorldMenuTristanR.frmHelloWorldMenu.resources
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\obj\Debug\HelloWorldMenuTristanR.Properties.Resources.resources
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\obj\Debug\HelloWorldMenuTristanR.csproj.GenerateResource.Cache
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\obj\Debug\HelloWorldMenuTristanR.exe
+C:\Users\s450073\Documents\ICS3U TristanR\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\obj\Debug\HelloWorldMenuTristanR.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\bin\Debug\HelloWorldMenuTristanR.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\bin\Debug\HelloWorldMenuTristanR.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\bin\Debug\HelloWorldMenuTristanR.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\obj\Debug\HelloWorldMenuTristanR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\obj\Debug\HelloWorldMenuTristanR.frmHelloWorldMenu.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\obj\Debug\HelloWorldMenuTristanR.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\obj\Debug\HelloWorldMenuTristanR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\obj\Debug\HelloWorldMenuTristanR.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Royer, Tristan (s450073)\Introduction\HelloWorldMenuTristanR\HelloWorldMenuTristanR\obj\Debug\HelloWorldMenuTristanR.pdb
