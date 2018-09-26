@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Tristan Royer
+ * Created on: 26-09-18
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #5 - Hello International
+ * This program displays  hello "my name" in different languages.
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
