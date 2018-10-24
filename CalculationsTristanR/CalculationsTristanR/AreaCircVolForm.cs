@@ -28,23 +28,32 @@ namespace CalculationsTristanR
 
         private void btnArea_Click(object sender, EventArgs e)
         {
+			double area;
 			// Converts the area into a string so it can be displayed
-            lblArea.Text = Convert.ToString(Math.PI * Math.Pow(10, 2));
+			area = (Math.PI * Math.Pow(10, 2)) ;
+			area = Math.Round(area , 2, MidpointRounding.AwayFromZero);
+			lblArea.Text = Convert.ToString(area) + " cm^2";
+
         }
 
         private void btnVolume_Click(object sender, EventArgs e)
         {
+			double volume;
 			// Converts the Volume into a string so it can be displayed
+			volume = ((double)4 / (double)3 * Math.PI * Math.Pow(10, 3));
+			volume = Math.Round(volume , 2, MidpointRounding.AwayFromZero);
+			lblVolume.Text = Convert.ToString(volume) + " cm^3" ;
+			
 
-			lblVolume.Text = Convert.ToString((double)4 / (double)3 * Math.PI * Math.Pow(10, 3));
+		}
 
-        }
-
-        private void btnPer_Click(object sender, EventArgs e)
+		private void btnPer_Click(object sender, EventArgs e)
         {
+			double perimeter;
 			// Converts the Perimeter into a string so it can be displayed
-
-			lblPer.Text = Convert.ToString(2 * (10 * 9));
+			perimeter = (2 * (10 * 9));
+			perimeter = Math.Round(perimeter, 2, MidpointRounding.AwayFromZero);
+			lblPer.Text = Convert.ToString(perimeter) + " cm";
 
         }
     }
